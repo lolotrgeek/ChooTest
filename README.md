@@ -1,2 +1,2 @@
-Testing [Choo] (https://github.com/choojs/choo)
+Testing [Choo](https://github.com/choojs/choo)
 
